@@ -44,4 +44,4 @@ if __name__ == "__main__":
         size = list(map(int, input("Enter size:\n").split(' ')))
     
     result = calc(fig, func, size)
-    print(f"{func} of {fig} is {result}"
+    print(f"{func} of {fig} is {result}")
